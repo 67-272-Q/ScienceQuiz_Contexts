@@ -17,6 +17,4 @@ We accidentally left the scope tests for `TeamQuiz` in `team_quiz_test.rb` and t
 
 Again, we want to stress that these are provided to help reduce confusion and answer some questions you have, but you are not required to use them -- the choice of how to use this is up to you.
 
-Qapla'
-
-Prof. H & Prof. GS
+Prof. Houda
